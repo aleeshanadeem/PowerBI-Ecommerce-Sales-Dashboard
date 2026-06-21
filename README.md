@@ -1,6 +1,7 @@
 # Ecommerce Sales Dashboard (Power BI)
 
-![Uploading ecommerce-dashboard.png…]()
+![Dashboard](![Uploading ecommerce-dashboard.png…]()
+)
 
 
 ## Project Overview
