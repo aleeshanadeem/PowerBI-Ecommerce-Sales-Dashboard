@@ -1,5 +1,8 @@
 # Ecommerce Sales Dashboard (Power BI)
 
+![Uploading ecommerce-dashboard.png…]()
+
+
 ## Project Overview
 This Power BI dashboard provides insights into ecommerce sales performance, customer demographics, product categories, regional sales, and monthly trends.
 
